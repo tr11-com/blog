@@ -29,7 +29,7 @@ One of the coolest features of Duckduckgo is "Bangs!". This allows you to search
 1. ### Customizable interface
     
 
-Duckduckgo lets you customize the look and feel of the search engine. You can change the background, font, and even add your own custom CSS. It's a small thing, but it makes the search engine feel more personal.
+Duckduckgo lets you customize the look and feel of the search engine. You can change the background, theme, URL style, and much more. It's a small thing, but it makes the search engine feel more personal.
 
 1. ### No more annoying ads
     
