@@ -1,6 +1,6 @@
 # Why to switch to duckduckgo
 
-Are you tired of being tracked by big tech companies every time you search for something online? Are you fed up with targeted ads following you around the internet like a clingy ex? Well, it's time to ditch Google and make the switch to Duckduckgo - the privacy-focused search engine that puts you in control of your online experience.
+Are you tired of being tracked by big tech companies every time you search for something online? Are you fed up with targeted ads following you around the internet like? Well, it's time to ditch Google and make the switch to Duckduckgo - the privacy-focused search engine that puts you in control of your online experience.
 
 Still not convinced? Here are 7 reasons why you should switch to Duckduckgo:
 
@@ -39,7 +39,7 @@ Have you ever searched for something on Google and then seen ads for that produc
 1. ### It's just better
     
 
-At the end of the day, Duckduckgo is just a better search engine. It's fast, reliable, and provides great search results. Plus, you get all the privacy benefits we've already talked about. What's not to love?
+Duckduckgo is just a better search engine. It's fast, reliable, and provides great search results. Plus, you get all the privacy benefits we've already talked about.
 
 So, there you have it - 7 reasons to switch to Duckduckgo. If you care about your privacy and want a search engine that puts you first, then it's time to make the switch. *The future belongs to those who duck for it today.* [*🔗*](https://mastodon.social/tags/replaceawordinafamousquotewithduck)
 
