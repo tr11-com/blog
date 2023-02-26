@@ -32,6 +32,8 @@ if ('serviceWorker' in navigator) {
 
 In this example, we're using the `navigator` object to check if the `serviceWorker` API is supported in the user's browser. If it is, we use the `window.addEventListener` method to wait for the page to load and then call `navigator.serviceWorker.register` to register our service worker file (`/sw.js`).
 
-This is just a basic introduction to PWAs, but there's a lot more to learn and explore in this exciting area of web development. Whether you're building a new web app or looking to enhance an existing one, PWAs are a great way to provide users with a fast and seamless experience. Here's a great starter:
+This is just a basic introduction to PWAs, but there's a lot more to learn and explore in this exciting area of web development. Whether you're building a new web app or looking to enhance an existing one, PWAs are a great way to provide users with a fast and seamless experience.
 
-%[https://glitch.com/edit/#!/pwa?path=README.md%3A1%3A0]
+Here's a great starter for you to remix: [~easy-pwa](https://glitch.com/edit/#!/easy-pwa?path=README.md%3A12%3A20) on Glitch
+
+# 👋
