@@ -1,4 +1,12 @@
-# Let's make a conferencing app with Javascript!
+---
+title: "Let's make a conferencing app with Javascript!"
+datePublished: Fri Feb 03 2023 12:22:39 GMT+0000 (Coordinated Universal Time)
+cuid: cldohybcd02332envbnxahqfp
+slug: lets-make-a-conferencing-app-with-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5QgIuuBxKwM/upload/ca5ec5f2d68b4fd5a071c01df1c1460b.jpeg
+tags: websockets, javascript, video-conferencing
+
+---
 
 In the previous article, I talked about [making a live stream with javascript](https://blog.tiagorangel.com/making-a-simple-live-stream-with-javascript). Now, we're going to see how to make a *real* conferencing app that uses WebRTC and sockets!
 
