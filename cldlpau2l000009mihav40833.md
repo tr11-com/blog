@@ -1,4 +1,12 @@
-# Diving into WebAuthn
+---
+title: "Diving into WebAuthn"
+datePublished: Wed Feb 01 2023 13:25:02 GMT+0000 (Coordinated Universal Time)
+cuid: cldlpau2l000009mihav40833
+slug: diving-into-webauthn
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/RMIsZlv8qv4/upload/7c9c7028eece402c090136385a494858.jpeg
+tags: authentication, javascript, webauthn
+
+---
 
 As a developer, you may have already heard about the new standard in online authentication - Web Authentication (WebAuthn). This new standard offers a more secure and user-friendly alternative to the traditional password-based authentication system.
 
