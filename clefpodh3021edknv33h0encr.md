@@ -1,4 +1,12 @@
-# Why to switch to duckduckgo
+---
+title: "Why switch to duckduckgo"
+datePublished: Wed Feb 22 2023 13:28:38 GMT+0000 (Coordinated Universal Time)
+cuid: clefpodh3021edknv33h0encr
+slug: why-switch-to-duckduckgo
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678045569649/e294fd99-20b0-422e-931b-c1915f89da39.png
+tags: duck, duckduckgo
+
+---
 
 Are you tired of being tracked by big tech companies every time you search for something online? Are you fed up with targeted ads following you around the internet? Well, it's time to ditch Google and make the switch to Duckduckgo - the privacy-focused search engine that puts you in control of your online experience.
 
