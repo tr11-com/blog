@@ -1,4 +1,12 @@
-# Introduction to PWAs (Progressive Web Apps)
+---
+title: "Introduction to PWAs (Progressive Web Apps)"
+datePublished: Sat Feb 25 2023 17:08:38 GMT+0000 (Coordinated Universal Time)
+cuid: clek7uume00q4bwnvhb7mas4y
+slug: introduction-to-pwas-progressive-web-apps
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/n31x0hhnzOs/upload/eefea956ff70d4545ae64137b59082f8.jpeg
+tags: javascript, beginners, pwa
+
+---
 
 Progressive Web Apps (PWAs) are a new way of delivering web content that combines the best of both worlds - the ease of use of native apps and the accessibility of traditional websites. PWAs are designed to provide users with a fast and seamless experience, even on slow networks or when offline.
 
