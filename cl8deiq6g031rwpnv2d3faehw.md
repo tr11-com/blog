@@ -1,4 +1,13 @@
-# Reading the latest Whatsapp messages using python and pyautogui
+---
+title: "Reading the latest Whatsapp messages using python and pyautogui"
+datePublished: Thu Sep 22 2022 18:42:33 GMT+0000 (Coordinated Universal Time)
+cuid: cl8deiq6g031rwpnv2d3faehw
+slug: reading-the-latest-whatsapp-messages-using-python-and-pyautogui
+canonical: https://tiagorangel2011.medium.com/reading-the-latest-whatsapp-messages-with-python-79d7f754b36
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675256735502/4755cbfa-3c3c-4a6e-80f6-ec8d41c5536b.png
+tags: python, python3, pyautogui
+
+---
 
 ![Whatsapp logo](https://miro.medium.com/max/875/0*VSjseDkLPGooQg60 align="left")
 
