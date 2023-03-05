@@ -1,4 +1,13 @@
-# Making my BETA website design
+---
+title: "Making my BETA website design"
+datePublished: Fri Jan 20 2023 13:26:24 GMT+0000 (Coordinated Universal Time)
+cuid: cldlnm22i000009mkhqvpg2kx
+slug: making-my-beta-website-design
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675256404343/5c9f50d4-8fff-4b36-9345-49befbe5ab21.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1675255407376/fa72a4f0-23e9-4ee3-9c8f-cd77155e4046.png
+tags: design, ux, figma, glitchcom
+
+---
 
 **Step 1. Font selection**
 
