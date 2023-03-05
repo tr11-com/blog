@@ -1,4 +1,12 @@
-# The beginner's guide to encryption
+---
+title: "The beginner's guide to encryption"
+datePublished: Sat Feb 04 2023 16:13:39 GMT+0000 (Coordinated Universal Time)
+cuid: cldq5n8oy01bgq0nvfbu32is1
+slug: the-beginners-guide-to-encryption
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FnA5pAzqhMM/upload/63357b2500f5bf90051d5c890e2fb495.jpeg
+tags: security, encryption
+
+---
 
 *Encryption, the word that strikes fear into the hearts of many developers, but it's actually not as complicated as it sounds.* Think of it like a secret code that you used to send to your friends when playing hide and seek (except now it's used to protect your data). The idea is to scramble the original message into a coded form that only the intended recipient can read with the right key.
 
