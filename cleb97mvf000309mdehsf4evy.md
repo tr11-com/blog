@@ -1,4 +1,12 @@
-# How does Machine Learning actually work?
+---
+title: "How does Machine Learning actually work?"
+datePublished: Sun Feb 19 2023 10:36:39 GMT+0000 (Coordinated Universal Time)
+cuid: cleb97mvf000309mdehsf4evy
+slug: how-does-machine-learning-actually-work
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ZJKE4XVlKIA/upload/86eae459ea52283575389249b17fd719.jpeg
+tags: artificial-intelligence, machine-learning
+
+---
 
 Greetings, fellow humans! Today, we'll delve into the fascinating world of Machine Learning and learn how it works. But don't worry, we won't make it as dry as a calculus lecture. So, let's get started!
 
