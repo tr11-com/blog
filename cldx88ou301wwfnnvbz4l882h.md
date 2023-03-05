@@ -1,4 +1,12 @@
-# How to implement lazy loading in your website
+---
+title: "How to implement lazy loading in your website"
+datePublished: Thu Feb 09 2023 15:00:42 GMT+0000 (Coordinated Universal Time)
+cuid: cldx88ou301wwfnnvbz4l882h
+slug: how-to-implement-lazy-loading-in-your-website
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/yGPxCYPS8H4/upload/c2a7c381db92f8e107ee70c85b3ea6e9.jpeg
+tags: javascript, html5, best-practices, lazy-loading
+
+---
 
 As web applications grow larger and more complex, it's important to consider how to optimize the user experience for slow internet connections or underpowered devices. One way to achieve this is by implementing lazy loading, which is a technique that delays loading of images or other content until it is needed.
 
