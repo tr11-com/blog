@@ -1,4 +1,12 @@
-# Getting started with graphQL subscriptions
+---
+title: "Getting started with graphQL subscriptions"
+datePublished: Wed Feb 15 2023 14:15:39 GMT+0000 (Coordinated Universal Time)
+cuid: cle5r9v80043m07nvcjhg386w
+slug: getting-started-with-graphql-subscriptions
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/mcSDtbWXUZU/upload/a2356787e7ec241e4b015b9bbb6703ad.jpeg
+tags: javascript, graphql, graphql-subscribtions
+
+---
 
 GraphQL is a powerful and flexible query language for APIs that allows clients to specify exactly what data they need. One of the lesser-known features of GraphQL is subscriptions, which allow for real-time updates to be pushed from the server to the client.
 
