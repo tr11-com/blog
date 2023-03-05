@@ -1,4 +1,13 @@
-# Sending WhatsApp messages with Python and PyAutoGUI
+---
+title: "Sending WhatsApp messages with Python and PyAutoGUI"
+datePublished: Thu Sep 22 2022 18:39:15 GMT+0000 (Coordinated Universal Time)
+cuid: cl8deehfx031ewpnv1tra4399
+slug: sending-whatsapp-messages-with-python-and-pyautogui
+canonical: https://tiagorangel2011.medium.com/how-to-send-a-whatsapp-message-with-python-75a69eb695c6
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675256835800/f35f39b2-ad57-4e4c-9b12-fdb2055683fb.png
+tags: python, python3, whatsapp, pyautogui
+
+---
 
 ![Photo](https://miro.medium.com/max/1400/0*S2rfeFoBVQxdk9cB align="left")
 
