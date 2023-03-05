@@ -1,8 +1,16 @@
-# Teachable Machine: Make your own AI!
+---
+title: "Teachable Machine: Make your own AI!"
+datePublished: Tue Feb 28 2023 13:42:39 GMT+0000 (Coordinated Universal Time)
+cuid: cleoathrk023un5nv9grkbwiz
+slug: teachable-machine-make-your-own-ai
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678045535537/bcb0e5ba-e83e-4eaf-91cf-29e570bbbea9.png
+tags: ai, artificial-intelligence, machine-learning, teachablemachine, teachable-machine
 
-Hello there, fellow humans! Today, I'm going to introduce you to the magical world of AI and how you can create your very own AI using Teachable Machine, all while using the ever-so-popular programming language, JavaScript. Buckle up and get ready to explore the world of AI with me!
+---
 
-Now, let me start by saying that making your own AI might sound like a daunting task, but fear not! Teachable Machine is here to save the day. This nifty little tool, created by the fine folks at Google, allows you to train your own machine learning model without having to be a rocket scientist. No, seriously, you don't need to be a rocket scientist. If you were, you'd be out there exploring the stars, not reading this article.
+Hi there everyone! Today, I'm going to introduce you to the magical world of AI and how you can create your very own AI using Teachable Machine, all while using the ever-so-popular programming language, JavaScript.
+
+Now, let me start by saying that making your own AI might sound like a daunting task, but fear not! Teachable Machine is here to save the day. This cool little tool, created by people at Google, allows you to train your own machine learning model really easily. Believe me, **really** easy.
 
 So, what is Teachable Machine, you ask? 🤔 Well, let me tell you. Teachable Machine is a web-based tool that allows you to train a machine learning model to recognize images, sounds, and poses. This means that you can teach your computer to recognize things like a cat meowing, a dog barking, or anything you want.
 
