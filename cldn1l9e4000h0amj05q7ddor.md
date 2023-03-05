@@ -1,4 +1,12 @@
-# Making a simple live stream with javascript
+---
+title: "Making a simple live stream with javascript"
+datePublished: Thu Feb 02 2023 11:56:49 GMT+0000 (Coordinated Universal Time)
+cuid: cldn1l9e4000h0amj05q7ddor
+slug: making-a-simple-live-stream-with-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/8zsBofKrhP8/upload/949b3bbbeec216df7448a84e2b9d4989.jpeg
+tags: socketio, javascript, nodejs, live-streaming
+
+---
 
 Hey there! If you're looking to add a live stream feature to your website, Javascript can be a great tool to achieve this. In this post, I'll share some code examples to help you get started.
 
