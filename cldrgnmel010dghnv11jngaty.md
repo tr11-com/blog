@@ -1,4 +1,12 @@
-# Best practices for securing your web apps
+---
+title: "Best practices for securing your web apps"
+datePublished: Sun Feb 05 2023 14:09:39 GMT+0000 (Coordinated Universal Time)
+cuid: cldrgnmel010dghnv11jngaty
+slug: best-practices-for-securing-your-web-apps
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/eHGDacr2Vik/upload/087943c6113aca11b15abb5cd406600e.jpeg
+tags: security, best-practices, security-testing
+
+---
 
 Securing your web application is a crucial step in ensuring the safety of your users' data and your business. With the increasing frequency of data breaches and cyber attacks, it's important to make sure your web application is as secure as possible. Here are some best practices to keep in mind when securing your web application:
 
