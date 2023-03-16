@@ -1,6 +1,6 @@
 ---
 title: "Comparing Vercel, Netlify, and other popular alternatives"
-datePublished: Mon Mar 13 2023 20:38:39 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed Mar 15 2023 14:13:36 GMT+0000 (Coordinated Universal Time)
 cuid: clf7aejnj03uzh5nvb0h168w9
 slug: comparing-vercel-netlify-and-other-popular-alternatives
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/weRQAu9TA-A/upload/4c0d2f0ea4d0d1e55685b56745e34a18.jpeg
