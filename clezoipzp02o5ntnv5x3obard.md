@@ -7,14 +7,12 @@ tags: tricks, improve-your-website
 
 ---
 
-Welcome to the wild and wonderful world of website improvement! Whether you're a seasoned website owner or a newbie, there's always something you can do to make your website better.
-
-But where do you start? How do you know which tricks to use? Fear not, dear reader, for I am here to guide you through the treacherous terrain of website improvement. So sit back, relax, and get ready to learn some cool tricks to improve your website's experience.
+Welcome to the wild and wonderful world of website improvement. Whether you're a seasoned website owner or a newbie, there's always something you can do to make your website better. So let's get ready to learn some cool tricks to improve your website's experience.
 
 1. ### Make it mobile-friendly
     
 
-You know what's **not** cool? A website that looks terrible on mobile devices. With more and more people using their phones to browse the web, it's important to make sure your website is optimized for mobile. If your website isn't mobile-friendly, you're missing out on a huge chunk of potential visitors.
+Do you know what's **not** cool? A website that looks terrible on mobile devices. With more and more people using their phones to browse the web, it's important to make sure your website is optimized for mobile. If your website isn't mobile-friendly, you're missing out on a huge chunk of potential visitors.
 
 1. ### Keep it simple
     
@@ -24,7 +22,7 @@ There's nothing more annoying than a website that's cluttered with unnecessary e
 1. ### Speed it up
     
 
-You know what's even more annoying than a cluttered website? A slow website. Nobody has time to wait for your website to load, so make sure it's as fast as possible. Compress images, optimize code, and use a content delivery network (CDN) to speed up your website.
+What's even more annoying than a cluttered website? A slow website. Nobody has time to wait for your website to load, so make sure it's as fast as possible. Compress images, optimize code, and use a content delivery network (CDN) to speed up your website.
 
 1. ### Use high-quality images
     
