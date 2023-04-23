@@ -84,7 +84,7 @@ def handle_mention(status):
 mastodon.stream_user(handle_mention)
 ```
 
-In the next blog post, we'll talk about **making a bot with GPT3 and connecting it to Mastodon**!
+In the next blog post, we'll make a bot with much more powerful capabilities, and test one in the wild!
 
 Before we wrap up, let's take a look at a few tips and tricks for creating a successful Mastodon bot:
 
