@@ -8,7 +8,7 @@ tags: python, mastodon, mastodon-bot
 
 ---
 
-Mastodon is a decentralized social network that allows users to create their own instances and communicate with users on other instances. With a Mastodon bot, you can automate tasks such as posting updates, replying to mentions, or even creating interactive chatbots. In this tutorial, we'll be using Python and the [Mastodon.py](http://Mastodon.py) library to create a Mastodon bot.
+Mastodon is a decentralized social network that allows users to create their own instances and communicate with users on other instances. With a Mastodon bot, you can automate tasks such as posting updates, replying to mentions, or even creating interactive chatbots. In this tutorial, we'll be using Python and the Mastodon.py library to create a Mastodon bot.
 
 > I no longer recommend you making a Twitter bot, as now you need to pay to get access to their API.
 
