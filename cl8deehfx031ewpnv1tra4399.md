@@ -9,28 +9,24 @@ tags: python, python3, whatsapp, pyautogui
 
 ---
 
-![Photo](https://miro.medium.com/max/1400/0*S2rfeFoBVQxdk9cB align="left")
-
-Photo by [Christian Wiediger](https://unsplash.com/@christianw?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
-
 > This post was originaly posted on my [medium](https://tiagorangel2011.medium.com/how-to-send-a-whatsapp-message-with-python-75a69eb695c6)
 
 # The project
 
-Hi everyone! Today I’m building an text-to-whatsapp python app
+Hi everyone! Today I’m building a text-to-whatsapp python app
 
 Bellow, I have the code, and I will explain everything in the comments.
 
 Oh, but first run the following commands:
 
-```plaintext
+```bash
 $ pip3 install web-browser
 $ pip3 install pyautogui
 ```
 
 And here we have our code:
 
-```plaintext
+```python
 import webbrowser # import the webbrowser library, see line bellow
 import pyautogui #import the library that will simulate clicks
 import time # for sleep
