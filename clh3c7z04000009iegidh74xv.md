@@ -3,6 +3,7 @@ title: "Mastodon Bots series: Part 2: More complex interactions."
 datePublished: Sun Apr 30 2023 11:37:51 GMT+0000 (Coordinated Universal Time)
 cuid: clh3c7z04000009iegidh74xv
 slug: mastodon-bots-series-part-2-more-complex-interactions
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bQRqXz7mZe4/upload/78e9b9cf33208012c771cdcb2e1f0213.jpeg
 tags: python, mastodon, mastodon-bot, mastodonpy
 
 ---
