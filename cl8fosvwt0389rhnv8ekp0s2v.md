@@ -21,7 +21,6 @@ Looks easy, right? Well, the difficult part was getting a service that actually 
 So I decided to go with [opensheet](https://github.com/benborgers/opensheet). It's quite easy to use, only some fetch requests.
 
 ```plaintext
-/* ⭐ Project sheet handling ⭐ */
 fetch(
   "https://opensheet.elk.sh/[Sheet ID]/Projects"
 )
