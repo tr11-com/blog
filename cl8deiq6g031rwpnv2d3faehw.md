@@ -9,10 +9,6 @@ tags: python, python3, pyautogui
 
 ---
 
-![Whatsapp logo](https://miro.medium.com/max/875/0*VSjseDkLPGooQg60 align="left")
-
-(Photo by [Dima Solomin](https://unsplash.com/@solomin_d?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral))
-
 > This post was originaly posted on my [medium](https://tiagorangel2011.medium.com/reading-the-latest-whatsapp-messages-with-python-79d7f754b36)
 
 # Introduction
