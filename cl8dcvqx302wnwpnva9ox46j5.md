@@ -8,7 +8,7 @@ tags: medium, hello-world, first-post-1
 
 ---
 
-Ahoy there, fellow bloggers!
+Hi everyone!
 
 I've made the leap from Medium to a new platform and I'm ready to have some fun! No offense to Medium, it's a great platform and has served me well, but this new space is where the real adventures lie. With multiple reactions and endless possibilities, I'm ready to explore and have a blast!
 
