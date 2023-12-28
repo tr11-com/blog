@@ -1,6 +1,6 @@
 ---
 title: "Trying Pi - Your personal AI"
-datePublished: Thu Dec 28 2023 16:32:53 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed Nov 15 2023 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clqpfbj25000008jsg6uk2n7r
 slug: trying-pi-your-personal-ai
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700421814813/a954f758-b327-4292-a360-14929ea1759b.png
