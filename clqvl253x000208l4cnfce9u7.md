@@ -1,8 +1,8 @@
 ---
-title: "I cheated in Kahoot using AI"
+title: "Cheating in Kahoot with AI"
 datePublished: Tue Jan 02 2024 00:00:10 GMT+0000 (Coordinated Universal Time)
 cuid: clqvl253x000208l4cnfce9u7
-slug: i-cheated-in-kahoot-using-ai
+slug: cheating-in-kahoot-with-ai
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703941708949/bea8da11-ed3c-40f4-aacc-318c44836076.png
 tags: ai, javascript, google, userscript, google-ai, cheating, gemini, kahoot
 
